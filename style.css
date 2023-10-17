@@ -1,0 +1,50 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+background: border-box; 
+font-family: Arial, sans-serif; /* Font family */
+margin: 10px; /* Margin around the element */
+padding: 10px; /* Padding inside the element */
+text-align: center; /* Text alignment */
+}
+header{
+  background: grey;
+  border: solid 4px;
+}
+h1{
+  font-size: 40px; 
+  font-color: black;
+}
+h2{
+  font-size: 30px;
+  font-color: #2F4F4F;
+}
+h3{
+  font-size: 20px;
+  font-color: black;
+}
+p{
+  font-size: 20px;
+  font-color: white;
+}
+main{
+border: solid 2px black;
+background: #2F4F4F;  
+}
+img{
+  border-radius: 20px;
+  padding: 10px
+}
+li,ol{
+  padding: 0px;
+  margin: 0px
+  font-size: 20px;
+}
+footer{
+  background: grey;
+  border: solid 4px black;
+  color: white;
+  font-size: 10px;
+}
